@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipython
+keras
+librosa
+scikit_learn
+tensorflow
+opencv-python-headless==4.5.1.48
+plotly
+requests
