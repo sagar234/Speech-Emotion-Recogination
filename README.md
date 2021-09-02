@@ -84,7 +84,7 @@ Research has shown that verbal communication remains one of the most employable 
 
 # Conclusion 
 
-**Through  this project, we showed how we can leverage Machine learning to obtain the underlying emotion from speech audio data and some insights on the human expression of emotion through voice. This system can be employed in a variety of setups like Call Centre for complaints or marketing, in voice-based virtual assistants or chatbots, in linguistic research, etc.** 
+**That's it! We come to the conclusion of our exercise. Starting with stacking the information so distant we have done EDA, Data  augmentation , Feature Extraction, and after that model building. we appeared how we will use Machine learning to get the basic feeling from speech sound information and a few bits of knowledge on the human expression of feeling through voice. This framework can be utilized in a assortment of setups like Call Middle for complaints or promoting, in voice-based virtual collaborators or chatbots, in phonetic inquire about, etc.** 
 
 
 
