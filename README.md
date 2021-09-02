@@ -2,11 +2,8 @@
 
 # Introduction 
 
-**In today’s digital era, speech signals have become a mode of communication between humans and machines which is possible by various technological advancements. Speech recognition techniques with methodologies signal processing techniques made leads to Speech-to text (STT) technology which is used mobile phones as a mode of communication.**
-
-**Speech Recognition is the fastest growing research topic in which attempts to recognize speech signals. This leads to Speech Emotion Recognition (SER) growing research topic in which lots of advancements can lead to advancements in various fields like automatic translation systems, machine to human interaction, used in synthesizing speech from the text so on**
-
-**There are many voice products has been developed like Amazon Alex, Google Home, Apple Home Pod which functions mainly on voice-based commands. It is evident that Voice will be the better medium for communicating to the machines**
+**Emotions play an important role in everyday human interaction. This is essential for your rational as well as intelligent decisions. By expressing your feelings and giving feedback to others, it helps to match and understand the feelings of others. Research has revealed the effective role of emotions in shaping human social interactions. Emotional displays provide significant information about a person's mental state.
+Speech cues can usually be obtained more easily and economically. That is why the majority of researchers are interested in recognizing speech emotion (SER). The purpose of SER is to identify the underlying emotional state of the speaker from her voice. The interest in research in this field has increased in recent years**
 
 
 
